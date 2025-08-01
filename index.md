@@ -8,3 +8,6 @@ if i do doulbe tab it puts it in a box
     test
 
 # Header 3
+
+Adding an image
+![Where does this show up](https://octodex.github.com/images/yaktocat.png)
